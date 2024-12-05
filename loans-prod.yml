@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Easybank loans related Production APIs"
+  message: "Welcome to Easybank loans related Leon Production APIs"
   contactDetails:
     name: "Hayden Pereira - Loans Production lead"
     email: "haydenpereira@pm.me"
