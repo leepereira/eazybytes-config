@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Easybank accounts related Production APIs"
+  message: "Welcome to Easybank accounts related Prod APIs"
   contactDetails:
     name: "Hayden Pereira - Prod lead"
     email: "{cipher}c36c2d433f5d7e3aede737cdc12a9df8a5d1e7b29284d9999e42d2a2b403085b4e6be482a6efee27569f111e79d7e676"
