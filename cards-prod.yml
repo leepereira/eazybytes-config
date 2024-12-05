@@ -6,7 +6,7 @@ build:
 cards:
   message: "Welcome to Easybank CARDS related Production APIs"
   contactDetails:
-    name: "Hayden Pereira - Prod CARDS lead"
+    name: "Hayden Pereira - Production CARDS lead"
     email: "haydenpereira@pm.me"
   onCallSupport:
     - (888)555-5555
