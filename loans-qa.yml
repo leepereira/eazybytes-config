@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Easybank Loans related QA APIs"
+  contactDetails:
+    name: "Grinal Pereira - Loans QA lead"
+    email: "grinalperiera@pm.me"
+  onCallSupport:
+    - (666)555-5555
+    - (666)523-1345

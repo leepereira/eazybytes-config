@@ -1,0 +1,13 @@
+
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Easybank accounts related local APIs"
+  contactDetails:
+    name: "Leon Pereira - Developer"
+    email: "lee_pereira@pm.me"
+  onCallSupport:
+    - (555)555-5555
+    - (555)523-1345

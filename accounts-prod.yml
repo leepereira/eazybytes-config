@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Easybank accounts related Prod APIs"
+  contactDetails:
+    name: "Hayden Pereira - Prod lead"
+    email: "haydenpereira@pm.me"
+  onCallSupport:
+    - (777)555-5555
+    - (777)523-1345

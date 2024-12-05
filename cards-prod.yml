@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Easybank CARDS related Prod APIs"
+  contactDetails:
+    name: "Hayden Pereira - Prod CARDS lead"
+    email: "haydenpereira@pm.me"
+  onCallSupport:
+    - (888)555-5555
+    - (888)523-1345

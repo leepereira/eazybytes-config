@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Easybank CARDS related QA APIs"
+  contactDetails:
+    name: "Hayden Pereira - QA CARDS lead"
+    email: "haydenpereira@pm.me"
+  onCallSupport:
+    - (888)555-5555
+    - (888)523-1345

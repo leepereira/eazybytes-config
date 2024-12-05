@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Easybank loans related Prod APIs"
+  contactDetails:
+    name: "Hayden Pereira - Loans Prod lead"
+    email: "haydenpereira@pm.me"
+  onCallSupport:
+    - (777)555-5555
+    - (777)523-1345
