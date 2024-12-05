@@ -6,7 +6,7 @@ build:
 loans:
   message: "Welcome to Easybank loans related Production APIs"
   contactDetails:
-    name: "Hayden Pereira - Loans Prod lead"
+    name: "Hayden Pereira - Loans Production lead"
     email: "haydenpereira@pm.me"
   onCallSupport:
     - (777)555-5555
