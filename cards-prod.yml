@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Easybank CARDS related webhook APIs"
+  message: "Welcome to Easybank CARDS related Prod APIs"
   contactDetails:
     name: "Hayden Pereira - Production CARDS lead"
     email: "haydenpereira@pm.me"
